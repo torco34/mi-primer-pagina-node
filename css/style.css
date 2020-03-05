@@ -1,0 +1,66 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+body{
+	font-family: 'Oswald', sans-serif;
+}
+
+.vida_navbar{
+	background-color: rgb(257, 257, 255, 0.5) !important;
+}
+
+.vida_navbar div, .vida_navbar li{
+	background-color: transparent !important;
+
+}
+
+
+.vida_section1{
+	padding: 10%;
+}
+
+.section_1{
+	padding: 5%;
+}
+
+.section_1 a{
+	width: 200px;
+}
+
+
+
+.vida_section1 hr{
+	border-top: 2px solid rgb(1, 1, 1, 0.3)
+
+}
+
+
+.vida_footer{
+
+	background-color: rgba(1, 1, 1, 0.3);
+	padding: 10%;
+	color:#fff;
+	margin-top: 100px;
+}
+
+.vida_footer a{
+
+	color:#fff;
+	text-decoration: none;
+	display: block;
+}
+
+
+.vida_footer_img{
+
+	padding: 5%;
+}
+
+body{
+	background:#696969;
+	
+}
